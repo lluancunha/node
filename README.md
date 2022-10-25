@@ -5,4 +5,4 @@ Tutorial de logica de programação com a plataforma node
 Luan Cunha
 
 ## Links
-{node} (https://nodejs.org/en/)
+[node](https://nodejs.org/en/)
