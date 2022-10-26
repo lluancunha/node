@@ -1,0 +1,27 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "tutorial de logica de programação usando o node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lluancunha/node.git"
+  },
+  "keywords": [
+    "node",
+    "tutorial",
+    "git"
+  ],
+  "author": "Luan Cunha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lluancunha/node/issues"
+  },
+  "homepage": "https://github.com/lluancunha/node#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
