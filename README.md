@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/lluancunha/node)
-# Tutorial Node
-Tutorial de logica de programação com a plataforma node
+# Tutorial NodeJs
+Tutorial de logica de programação usando Java Script e a plataforma node
 ## Autor 
 Luan Cunha
 
