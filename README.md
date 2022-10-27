@@ -9,7 +9,7 @@ Luan Cunha
 
 [npm repository](https://www.npmjs.com/package/repository)
 
-#Dicass
+##Dicas
 - node -v (versao do node)
 - npm -v (versão do gerenciador dos pacotes)
 - npm init (iniciar o package.json)
